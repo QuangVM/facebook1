@@ -1,0 +1,41 @@
+@media all and (min-width: 480px) {
+  .Login {
+    position: relative;
+    padding: 60px 0;
+    background-color: white;
+    width: 500px;
+    left: 700px;
+    top: 100px;
+    border-radius: 15px;
+  }
+
+  .a{
+      position: relative;
+      left: 100px;
+  }
+
+  .Login form {
+    position: relative;
+    margin: 0 auto;
+    max-width: 320px;
+  }
+
+  h1{
+      color: blue;
+      font-weight: bold;
+      position: relative;
+      top: 20px;
+      left: 30px;
+  }
+
+  body{
+      background-color: rgb(223, 219, 219);
+  }
+
+  img{
+      position: absolute;
+      top: 200px;
+      left: 100px;
+      border-radius: 15px;
+  }
+}

@@ -1,0 +1,1 @@
+<!-- Thư mục ngoài cùng, check trước mọi thứ trước khi load webweb -->
